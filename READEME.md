@@ -2,4 +2,6 @@ test
 
 branch
 
+master
+
 develop
